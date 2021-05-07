@@ -1,0 +1,14 @@
+{
+    "Name" : "Basic Japanese to English converter",
+    "WordMode" : false,
+    "TargetLanguage": "EN",
+    "TargetVoicebank": "*",
+    "PhonemeEquivalents": 
+        {
+            "a": "V",
+            "e" : "e",
+            "i" : "i:",
+            "o" : "Q",
+            "M" : "u:"
+        }
+}

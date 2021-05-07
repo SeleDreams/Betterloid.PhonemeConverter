@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginTemplate", "PluginTemplate\PluginTemplate.csproj", "{5F8B20B0-E0E2-4832-9B0F-FA524184CCEA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhonemeConverter", "PluginTemplate\PhonemeConverter.csproj", "{5F8B20B0-E0E2-4832-9B0F-FA524184CCEA}"
 EndProject
 Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Betterloid", "VOCALOID5\Editor\Betterloid.exe", "{C8FDEFB7-1C37-43B2-BDF1-76EBF663CFA7}"
 	ProjectSection(DebuggerProjectSystem) = preProject

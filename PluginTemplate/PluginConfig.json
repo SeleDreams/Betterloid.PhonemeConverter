@@ -2,9 +2,9 @@
   "PluginActive": "true",
   "PluginAuthor": "SeleDreams",
   "PluginType": "Editor",
-  "PluginAssembly": "PluginTemplate.dll",
-  "PluginName": "Template",
+  "PluginAssembly": "PhonemeConverter.dll",
+  "PluginName": "Phoneme Converter",
   "PluginVersion": "1.0.0",
-  "PluginNamespace": "PluginTemplate",
-  "PluginClass": "PluginTemplate"
+  "PluginNamespace": "PhonemeConverter",
+  "PluginClass": "PhonemeConverter"
 }
